@@ -1,0 +1,4 @@
+firstFile:TDCatalogue.csv
+secondFile:TDCatalogue.csv
+outputFile:Output.csv
+stopwordFile:StopWords.txt
