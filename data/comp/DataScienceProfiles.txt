@@ -1,0 +1,8 @@
+Data Science Infrastructure Manager::Proposes plans and manages functional and technical evolutions of the big data infrastructure within the relevant domain (technical, research, business). Big Data Infrastructure Manager
+Data Scientist::Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of datasets, and create visualisations to aid in understanding data. Build mathematical models, present and communicate data insights and findings to specialists and scientists, and recommend ways to apply the 
+data. Data Analyst
+Data Science Architect::Designs and maintains the architecture of Data Science applications and facilities. Creates relevant data models and processes workflows. System Architect, Applications architect
+Data Science (Application) Programmer/Engineer::Designs/develops/codes large data (science) analytics applications to support scientific or enterprise/business processes. Scientific Programmer
+Digital data curator::Finds, selects, organises, shares (exhibits) digital data collections, maintains their integrity, up-to-date status and freshness, discoverability Digital curator, digital archivist, digital librarian
+User support data services::Provides support to users to entry their data into governmental service and user facing applications
+Large scale (cloud) database designer::Designs/develops/codes large scale data bases and their use in domain/subject specific applications according to the customer needs.

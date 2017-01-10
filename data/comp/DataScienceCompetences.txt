@@ -1,0 +1,7 @@
+Data Science Analytics (DSDA)::Use appropriate statistical techniques and predictive analytics on available data to deliver insights and discover new relations
+Data Management (DSDM)::Develop and implement data management strategy for data collection, storage, preservation, and availability for further processing.
+Data Science Engineering (DSENG)::Use engineering principles to research, design, develop and implement new instruments and applications for data collection, analysis and management
+Scientific/ Research Methods (DSRM)::Create new understandings and capabilities by using the scientific method (hypothesis, test/artefact, evaluation) or similar engineering methods to discover new approaches to create new knowledge and achieve research or organisational goals
+DSDA01::Use predictive analytics to analyse big data and discover new relations
+DSDA02::Use appropriate statistical techniques on available data to deliver insights
+DSDA03::Develop specialized analytics to enable agile decision making
